@@ -357,6 +357,7 @@ article .icon {
     border-radius: 2rem;
     width: 90%;
     height: 90%;
+    max-height: 350px;
 }
 
 .project-title {
